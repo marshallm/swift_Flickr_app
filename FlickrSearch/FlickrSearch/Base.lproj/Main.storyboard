@@ -46,7 +46,7 @@
                             <fontDescription key="fontDescription" type="system" pointSize="14"/>
                             <textInputTraits key="textInputTraits" returnKeyType="search"/>
                             <connections>
-                                <outlet property="delegate" destination="2xr-3g-JHv" id="H6H-62-h4U"/>
+                                <outlet property="delegate" destination="2xr-3g-JHv" id="1xU-Ns-8hs"/>
                             </connections>
                         </textField>
                     </navigationItem>
